@@ -3,7 +3,7 @@
 
 ## I'm a Daughter, Sister, Scientist, and Friend!!
 
-- 🌱 Make a difference; growth oriented 
+- 🌱 Code a difference; growth oriented 
 - 👯 I’m looking forward to collaborating and learning new things
 - 🥅 Short Goal: Work on new projects / Expand my horizon 
 - ⚡ Fun fact: âme heureuse 
