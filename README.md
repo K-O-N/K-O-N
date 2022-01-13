@@ -2,6 +2,7 @@
 
 
 ## I'm a Daughter, Sister, Scientist, and Friend!!
+Passionate about using data to scale and solve business problems. I love to spot trends, make inferences and communicate business insights
 
 - 🌱 Code a difference; growth oriented 
 - 👯 I’m looking forward to collaborating and learning new things
