@@ -1,8 +1,8 @@
 ### Hello World!, I'm K-O-N  👋
 
 
-## I'm a Daughter, Sister, Scientist, and Friend!!
-Passionate about using data to scale and solve business problems. I love to spot trends, make inferences and communicate business insights
+## Welcome to Data and Everyting In Between!
+Passionate about using data to scale and solve business problems. I love to spot trends, make inferences and communicate business insights. Great passion for learning new technologies, developing data solutions, and supporting to drive growth in business.
 
 - 🌱 Code a difference; growth oriented 
 - 👯 I’m looking forward to collaborating and learning new things
