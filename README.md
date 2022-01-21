@@ -10,16 +10,11 @@ Passionate about using data to scale and solve business problems. I love to spot
 - ⚡ Fun fact: âme heureuse 
 
 ### Interest
-- Data Analytics
-- Storytelling
-- Statistical Analysis
-- Data Modelling
-- Timeseries Analysis
-- Automated Systems
-- ETL
-- Web Scraping
-- Data Mining
-- Machine Learning
+- Data Analytics              - Storytelling
+- Data Modelling              - Statistical Analysis
+- Timeseries Analysis         - Automated Systems
+- ETL                         - Web Scraping
+- Data Mining                 - Machine Learning
 - Research
 
 
