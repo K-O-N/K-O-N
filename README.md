@@ -10,7 +10,8 @@ I am passionate about using data to scale and solve business problems. I love to
 - ⚡ Fun fact: âme heureuse 
 
 ### Interest
-- Data Analytics > - Visualization   
+- Data Analytics 
+- Visualization
 - Automated Systems            
 - Statistical Analysis
 - Timeseries Analysis  
