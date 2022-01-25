@@ -1,8 +1,8 @@
 ### Hello World!, I'm K-O-N  👋
 
 
-## Welcome to Data and Everyting In Between!
-Passionate about using data to scale and solve business problems. I love to spot trends, make inferences and communicate business insights. Great passion for learning new technologies, developing data solutions, and supporting to drive growth in business.
+## Data and Everything In Between!
+I am passionate about using data to scale and solve business problems. I love to spot trends, make inferences and turn insights to smart ideas, communicate business insights to aid decision making. Great passion for learning new technologies, developing data solutions, and supporting to drive growth in business.
 
 - 🌱 Code a difference; growth oriented 
 - 👯 I’m looking forward to collaborating and learning new things
@@ -11,7 +11,7 @@ Passionate about using data to scale and solve business problems. I love to spot
 
 ### Interest
 - Data Analytics   
-- Visualization  
+<text-align="right;"- Visualization"</p>
 - Automated Systems            
 - Statistical Analysis
 - Timeseries Analysis  
