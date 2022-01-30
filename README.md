@@ -9,20 +9,6 @@ I am passionate about using data to scale and solve business problems. I love to
 - 🥅 Short Goal: Work on new projects / Expand my horizon 
 - ⚡ Fun fact: âme heureuse 
 
-### Interest
-- Data Analytics 
-- Visualization
-- Automated Systems            
-- Statistical Analysis
-- Timeseries Analysis  
-- Data Modelling      
-- ETL                   
-- Web Scraping
-- Data Mining                 
-- Machine Learning
-- Research
-
-
 ### Connect with me:
 
 [<img align="left" alt="K-O-N" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
