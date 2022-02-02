@@ -14,7 +14,7 @@ I am passionate about using data to scale and solve business problems. I love to
 [<img align="left" alt="K-O-N" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="K-O-N" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="K-O-N" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg" />][tableau]
-[<img align="left" alt="K-O-N" width="22px" src="https://sybyl.com/wp-content/uploads/2019/07/tableau-logo.jpg" />][tableau]
+[<img align="left" alt="K-O-N" width="22px" src="https://financeandbusiness.ucdavis.edu/sites/g/files/dgvnsk4871/files/styles/sf_landscape_16x9/public/images/article/tableau_icon.png?h=c673cd1c&itok=YkUJtGl8" />][tableau]
 
 <br />
 
