@@ -12,8 +12,7 @@ I am passionate about using data to scale and solve business problems. I love to
 ### Connect with me:
 
 [<img align="left" alt="K-O-N" width="35px" src="https://img.favpng.com/5/19/15/globe-earth-computer-icons-png-favpng-bk5qz69QDBeb8J43x4uTXzqu9.jpg" />][website]
-[<img align="left" alt="K-O-N" width="35px" src="https://th.bing.com/th/id/OIP.EgJ1C1NTWUiAvjFF4yo4zgAAAA?pid=ImgDet&rs=1" />][linkedin]
-[<img align="left" alt="K-O-N" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg" />][tableau]
+[<img align="left" alt="K-O-N" width="30px" src="https://th.bing.com/th/id/OIP.EgJ1C1NTWUiAvjFF4yo4zgAAAA?pid=ImgDet&rs=1" />][linkedin]
 [<img align="left" alt="K-O-N" width="35px" src="https://www.keywalker.co.jp/wp-content/uploads/2019/07/tableau-additional-function-2.jpg" />][tableau]
 
 <br />
