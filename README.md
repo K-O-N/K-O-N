@@ -34,7 +34,7 @@ I am passionate about using data to scale and solve business problems. I love to
 
 
 
-[website]: https://katenwankwo6.wixsite.com/my-site-4
+[website]: katenwankwo6@gmail.com
 [tableau]: https://public.tableau.com/app/profile/nwankwo.kate.ogochukwu
 [linkedin]: https://www.linkedin.com/in/nwankwo-kate-ogochukwu-1a1a1a170/
 -->
