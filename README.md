@@ -5,7 +5,7 @@
 I am passionate about using data to scale and solve business problems. I love to spot trends, make inferences and turn insights to smart ideas, communicate business insights to aid decision making. Great passion for learning new technologies, developing data solutions, and supporting to drive growth in business.
 
 - 🌱 Code a difference; growth oriented 
-- 👯 I’m looking forward to collaborating and learning new things
+- 👯 I’m looking forward to collaborating and solving major business data challenges
 - 🥅 Short Goal: Work on new projects / Expand my horizon 
 - ⚡ Fun fact: âme heureuse 
 
