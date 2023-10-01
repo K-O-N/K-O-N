@@ -6,8 +6,8 @@ I am passionate about using data to scale and solve business problems. I love to
 
 - 🌱 Code a difference; growth oriented 
 - 👯 I’m looking forward to collaborating and solving major business data challenges
-- 🥅 Short Goal: Work on new projects / Expand my horizon 
-- ⚡ Fun fact: âme heureuse 
+- 🥅 Short Goal: Work on new projects
+- ⚡ Fun fact: âme heureuse (happy soul)
 
 ### Connect with me:
 
