@@ -11,7 +11,7 @@ I am passionate about using data to scale and solve business problems. I love to
 
 ### Connect with me:
 
-[<img align="left" alt="K-O-N" width="35px" src="https://img.favpng.com/5/19/15/globe-earth-computer-icons-png-favpng-bk5qz69QDBeb8J43x4uTXzqu9.jpg" />][website]
+[<img align="left" alt="K-O-N" width="35px" src="https://k-o-n.github.io/.jpg" />][website]
 [<img align="left" alt="K-O-N" width="35px" src="https://carolinewabara.com/wp-content/uploads/2012/08/linkedin-ads-nigeria-370x246.jpg" />][linkedin]
 [<img align="left" alt="K-O-N" width="35px" src="https://www.keywalker.co.jp/wp-content/uploads/2019/07/tableau-additional-function-2.jpg" />][tableau]
 
