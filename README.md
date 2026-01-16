@@ -1,7 +1,7 @@
 ### Hello World!, I'm K-O-N  👋
 
 ## Data and Everything In Between!
-I am a versatile data engineer who enjoys tackling diverse challenges across different business domains. I thrive In ownership and enjoy problem solving. I am passionate about building systems that scale and enable others to self-serve their data needs. I understand that great data infrastructure requires both technical excellence and a deep understanding of the business context. 
+I am a data engineer who enjoys tackling diverse challenges across different business domains. I thrive In ownership and enjoy problem solving. I am passionate about building systems that scale and enable others to self-serve their data needs. I understand that great data infrastructure requires both technical excellence and a deep understanding of the business context. 
 - 🥅 Goal: Build stuff
 - ⚡ Fun fact: âme heureuse (happy soul)
 
